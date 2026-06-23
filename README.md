@@ -6,4 +6,4 @@
 
 ## how to contact me
 ***furaffinity or unsolicited discord call is perfect***
--# or drop me a notecard on sl and come hang inworld
+or drop me a notecard on sl and come hang inworld xd
