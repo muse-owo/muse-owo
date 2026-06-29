@@ -1,7 +1,7 @@
 # owo
 * a 3d multiplayer dungeon dive rpg adventure called riftdelve
 * 3-altitude factory game about the semiconductor industries named fab tycoon
-* spacetimedb <-> game engine core deterministic inter-op 'fabric' class library (C# .NET 8)
+* Vesica - authoritative database <-> runtime simulation core deterministic inter-op 'fabric' framework (C# .NET 8)
 * b2/r2/s3 drive-mountable+sync/shareable systray client+gui (Rust+Tauri/Slint(help me decide?!))
 
 ## how to contact me
